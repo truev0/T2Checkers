@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/56961/CLionProjects/Taller2/Ficha.h
+
+C:/Users/56961/CLionProjects/Taller2/Sistema.cpp
+Sistema.h
+C:/Users/56961/CLionProjects/Taller2/Sistema.h
+iostream
+-
+
+C:/Users/56961/CLionProjects/Taller2/Sistema.h
+Tablero.h
+C:/Users/56961/CLionProjects/Taller2/Tablero.h
+
+C:/Users/56961/CLionProjects/Taller2/Tablero.h
+Ficha.h
+C:/Users/56961/CLionProjects/Taller2/Ficha.h
+
